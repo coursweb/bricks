@@ -6,38 +6,38 @@ permalink: divers.html
 
 Divers points à documenter.
 
-## Ajouter des SVG
+### Ajouter des SVG
 
 **Ajouter des SVG**. Dans WordPress, l'upload de fichiers SVG est activé par défaut. Bricks donne un réglage qui permet l'ajout de SVG, sous **Bricks > Settings > SVG Uploads**.
 
-## Fontes custom
+### Fontes custom
 
 Bricks a une interface pour l'ajout de fontes. [Voir la documentation](https://academy.bricksbuilder.io/article/custom-fonts/).
 
-## Constructeur de menu (Menu Builder)
+### Constructeur de menu (Menu Builder)
 
 Bricks comporte un constructeur de menu. Le fonctionnement est expliqué [dans la documentation "Menu Builder"](https://academy.bricksbuilder.io/article/menu-builder/).
 
-## Components
+### Components
 
 Il est possible d'enregistrer un groupe d'éléments, et d'en faire un "élément global" nommé **Component** (comme dans Figma). [Voir la documentation](https://academy.bricksbuilder.io/article/components/).
 
-## Ajout de code personnalisé
+### Ajout de code personnalisé
 
 Bricks permet d'ajouter du [code personnalisé](https://academy.bricksbuilder.io/article/custom-code/) de trois différentes manières:
 - Au niveau de la page.
 - Au niveau d'un élément/bloc.
 - Via un bloc spécifique "Code" qui peut contenir du PHP, HTML, CSS ou Javascript.
 
-## Constructeur de Popups
+### Constructeur de Popups
 
 Bricks comporte un constructeur de Popups. [Voir la documentation](https://academy.bricksbuilder.io/article/popup-builder/).
 
-## ACF et Repeater Fields
+### ACF et Repeater Fields
 
 Voici un tuto qui explique assez clairement comment on peut utiliser le Repeater Field avec Bricks: [https://www.youtube.com/watch?v=9L5N4bybyXY](https://www.youtube.com/watch?v=9L5N4bybyXY)
 
-## Ajouter contenus de ACF
+### Ajouter des contenus de ACF
 
 [Voici une vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_2526_ID422_Teams/IQDHcsmGA0wuRKn2VUdBnvhIAav6RXDQY0rvZATeJs6UEsQ?e=Ire0os&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) qui montre comment créer un nouveau type de contenu (Jeux), lui donner des champs ACF, et concevoir des Templates pour l'afficher:
 
