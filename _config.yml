@@ -5,18 +5,13 @@ lang: fr-FR
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
- - title: HTML
-   url: https://cours-web.ch/html/
- - title: CSS
-   url: https://cours-web.ch/css/
- - title: JavaScript
-   url: https://cours-web.ch/javascript/
- - title: A11Y
-   url: https://cours-web.ch/a11y/
+ - title: Bricks
+   url: https://cours-web.ch/bricks/
+
 
    # Footer content
 # Content is split in three columns.   
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
-  <li>2025</li></ul>
+  <li>2026</li></ul>
 footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/bricks">Lien Github</a></li></ul>
