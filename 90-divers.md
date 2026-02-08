@@ -32,3 +32,13 @@ Bricks permet d'ajouter du [code personnalisé](https://academy.bricksbuilder.io
 ## Constructeur de Popups
 
 Bricks comporte un constructeur de Popups. [Voir la documentation](https://academy.bricksbuilder.io/article/popup-builder/).
+
+## ACF et Repeater Fields
+
+Voici un tuto qui explique assez clairement comment on peut utiliser le Repeater Field avec Bricks: [https://www.youtube.com/watch?v=9L5N4bybyXY](https://www.youtube.com/watch?v=9L5N4bybyXY)
+
+## Ajouter contenus de ACF
+
+[Voici une vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_2526_ID422_Teams/IQDHcsmGA0wuRKn2VUdBnvhIAav6RXDQY0rvZATeJs6UEsQ?e=Ire0os&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) qui montre comment créer un nouveau type de contenu (Jeux), lui donner des champs ACF, et concevoir des Templates pour l'afficher:
+
+<iframe src="https://eduvaud.sharepoint.com/sites/ERACOM_2526_ID422_Teams/_layouts/15/embed.aspx?UniqueId=86c972c7-4c03-442e-a9f6-5547419ef848&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="ACF_Films_et_Jeux.mp4"></iframe>
