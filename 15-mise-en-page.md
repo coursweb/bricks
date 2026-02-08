@@ -13,3 +13,6 @@ Bricks propose quatre blocs qui servent à la mise en page:
 
 Voir l'article "[Understanding The Layout](https://academy.bricksbuilder.io/article/layout/)" dans la documentation officielle.
 
+## Conseils
+
+Pour les éléments Section, Container, Block: attention à ne pas leur donner de valeur "margin" horizontale, cela ferait déborder votre mise en page.
