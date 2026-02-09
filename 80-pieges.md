@@ -18,5 +18,7 @@ Ce réglage fonctionne aussi longtemps que les pages sont éditées avec l'édit
 
 **La solution:** il faut ajouter un deuxième bloc **Post Content** ayant pour source de données: **Bricks**.
 
+Explication du bloc [Post Content](https://academy.bricksbuilder.io/article/element-post-content/)
+
 Une explication en vidéo: 
 [Bricks and Gutenberg content in the SAME Template](https://www.youtube.com/watch?v=5uAd9UOzXqk)
