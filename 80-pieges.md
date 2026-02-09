@@ -12,7 +12,7 @@ En créant un Template simple pour les Pages, il est facile de commettre l'erreu
 
 - Représenter le contenu avec un bloc **Post Content** (contenu de la publication) ayant **WordPress** comme Data source (source de donnés) uniquement.
 
-Ce réglage pose problème dès que l'on édite le contenu de certaines pages avec Bricks. Le résultat:
+Ce réglage pose problème dès que l'on édite le contenu de certaines pages avec Bricks. Le résultat: un message d'erreur "Aucun contenu WordPress ajouté trouvé" s'affiche au lieu du contenu.
 
 ![Erreur "Aucun contenu WordPress ajouté trouvé"](img/erreur-aucun-contenu.png)
 
@@ -20,5 +20,3 @@ Ce réglage pose problème dès que l'on édite le contenu de certaines pages av
 
 Une explication en vidéo: 
 [Bricks and Gutenberg content in the SAME Template](https://www.youtube.com/watch?v=5uAd9UOzXqk)
-
-Pour mieux comprendre les principes des Templates, voir aussi l'article [An Intro To Templates](https://academy.bricksbuilder.io/article/an-intro-to-templates/) 

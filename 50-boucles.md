@@ -6,7 +6,9 @@ permalink: boucles.html
 
 Une **boucle de requête** (Query) peut être créée dans l'interface de Bricks sur n'importe quel élément bloc.
 
-## Usages avancés
+![Boucle de requête](img/query-loop-bricks.png)
+
+## Usages avancés des requêtes
 
 ### Filtres de requêtes
 

@@ -22,6 +22,10 @@ Bricks comporte un constructeur de menu. Le fonctionnement est expliqué [dans l
 
 Il est possible d'enregistrer un groupe d'éléments, et d'en faire un "élément global" nommé **Component** (comme dans Figma). [Voir la documentation](https://academy.bricksbuilder.io/article/components/).
 
+### Templates
+
+Pour mieux comprendre les principes des Templates, voir aussi l'article [An Intro To Templates](https://academy.bricksbuilder.io/article/an-intro-to-templates/) 
+
 ### Ajout de code personnalisé
 
 Bricks permet d'ajouter du [code personnalisé](https://academy.bricksbuilder.io/article/custom-code/) de trois différentes manières:
