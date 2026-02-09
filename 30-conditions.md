@@ -6,6 +6,6 @@ permalink: conditions.html
 
 Les **conditions** permettent d'afficher un élément de manière optionnelle, uniquement si certaines conditions sont remplies.
 
-Documentation officielle: 
+![Les conditions](img/bricks-render-conditions-toggle.png)
 
-[https://academy.bricksbuilder.io/article/element-conditions/](https://academy.bricksbuilder.io/article/element-conditions/)
+Documentation officielle: [Element Conditions](https://academy.bricksbuilder.io/article/element-conditions/)

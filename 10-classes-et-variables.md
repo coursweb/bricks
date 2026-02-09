@@ -6,7 +6,7 @@ permalink: classes.html
 
 Une fonction essentielle dans Bricks est la possbilité de définir des classes CSS et des variables, pour mieux contrôler les styles de votre site.
 
-Explication en vidéo:
+Article: [Global Variables Manager](https://academy.bricksbuilder.io/article/global-variables-manager/)
 
-[https://www.youtube.com/watch?v=2I6jJFfeJTw](https://www.youtube.com/watch?v=2I6jJFfeJTw), Mastering Bricks Builder - CSS Variables, par WPTuts
+Vidéo: [Mastering Bricks Builder - CSS Variables, by WPTuts](https://www.youtube.com/watch?v=2I6jJFfeJTw), 
 
