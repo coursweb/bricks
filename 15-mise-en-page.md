@@ -11,8 +11,10 @@ Bricks propose quatre blocs qui servent à la mise en page:
 - **Block**. A une largeur de 100%.
 - **Div**. Pas de réglage particulier, c'est un simple DIV.
 
+![Les blocs de mise en page](img/Bricks-1.5-Layout-Elements.png)
+
 Voir l'article "[Understanding The Layout](https://academy.bricksbuilder.io/article/layout/)" dans la documentation officielle.
 
 ## Conseils
 
-Pour les éléments Section, Container, Block: attention à ne pas leur donner de valeur "margin" horizontale, cela ferait déborder votre mise en page.
+Pour les éléments *Section*, *Container*, *Block*: attention à ne pas leur donner de valeur "margin" horizontale, cela ferait déborder votre mise en page.
