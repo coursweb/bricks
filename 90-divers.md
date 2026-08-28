@@ -8,7 +8,7 @@ Divers points à documenter.
 
 ### Ajouter des SVG
 
-**Ajouter des SVG**. Dans WordPress, l'upload de fichiers SVG est activé par défaut. Bricks donne un réglage qui permet l'ajout de SVG, sous **Bricks > Settings > SVG Uploads**.
+**Ajouter des SVG**. Dans WordPress, l'upload de fichiers SVG est **désactivé** par défaut. Bricks donne un réglage qui permet l'ajout de SVG, sous **Bricks > Settings > SVG Uploads**.
 
 ### Fontes custom
 
