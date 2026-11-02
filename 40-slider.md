@@ -10,7 +10,7 @@ Voir la [documentation officielle](https://academy.bricksbuilder.io/builder/feat
 
 ## Utiliser le Slider avec une galerie ACF
 
-Pour afficher les images d'une galerie ACF dans le Slider, on doit utiliser un peu de code. [Voici une méthode]([url](https://github.com/coursweb/bricks/issues/1)) pour permettre cela.
+Pour afficher les images d'une galerie ACF dans le Slider, on doit utiliser un peu de code. [Voici une méthode](https://github.com/coursweb/bricks/issues/1) pour permettre cela.
 
 ## Tutoriels vidéo
 
