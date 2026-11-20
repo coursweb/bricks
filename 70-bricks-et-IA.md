@@ -9,7 +9,7 @@ Cette page montre une méthode pour travailler avec Bricks et des agents AI.
 Les outils utiliés: 
 
 1. Bricks, dans la version 2.4 ou plus récente.
-2. OpenCode[https://opencode.ai/], qui comporte des modèles gratuits optimisés pour le code. 
+2. (OpenCode)[https://opencode.ai/], qui comporte des modèles gratuits optimisés pour le code. 
 3. [Figma Console MCP](https://github.com/southleft/figma-console-mcp) pour la connexion à Figma. C'est un utiliataire gratuit et open source.
 
 ### 1) Activer les fonctions IA dans Bricks
@@ -69,7 +69,7 @@ On utilise pour connecter notre IA à Figma l'outil [Figma Console MCP](https://
 - Créer un token personnel dans l'interface de Figma, notez-le bien.
 - Donner l'information à votre agent IA.
 
-Info donnée à l'agent IA:
+Il faut donner cette info à l'agent IA (en remplaçant le CODE_SECRET par votre token):
 
 ```
 I want to connect to Figma using https://github.com/southleft/figma-console-mcp
@@ -79,22 +79,23 @@ Here is the code I would give you if you were Claude Code:
 claude mcp add figma-console -s user -e FIGMA_ACCESS_TOKEN=CODE_SECRET -e ENABLE_MCP_APPS=true -- npx -y figma-console-mcp@latest
 ```
 
-Suite à cela, l'IA fait des configurations pour se connecter à Figma. L'IA va vous produire un fichier `manifest.json` nécessaire pour la connexion, p.ex. ainsi: 
+Suite à cela, l'IA fait des configurations pour se connecter à Figma. L'IA va produire un fichier `manifest.json` nécessaire pour la connexion, p.ex. ainsi: 
 
 ```
 The Desktop Bridge plugin was installed at: /Users/username/.figma-console-mcp/plugin/manifest.json
 ```
 
-Dernière opération: installer le fichier `manifest.json` qui est un plugin Figma. 
+Dernière opération que vous devez faire: installer le fichier `manifest.json` qui est un plugin Figma. 
 
-- Dans l'application Figma desktop: en ayant un fichier Figma ouvert aller dans le menu : Plugins > Développement > Plugin d'importation à partir d'un manifeste. 
+- Dans l'application Figma desktop: en ayant un fichier Figma ouvert aller dans le menu : *Plugins* > *Développement* > *Plugin d'importation à partir d'un manifeste*. 
 - Sélectionner le fichier `manifest.json`.
 
+Cela fait exécuter un plugin nommé "Figma Desktop Bridge". Par la suite, si vous rouvrez le fichier, vous pouvez relancer le plugin sous 
 
 Désormais: 
 
 - L'IA peut détecter les frames que vous sélectionnez dans ce document Figma.
-- L'IA est en mesure de le construire dans Bricks.
+- L'IA peut construire dans Bricks.
 - On peut lui demander de faire toutes sortes d'opérations (aussi ACF, création de contenus...)
 
 ### Bug rencontré
