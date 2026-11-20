@@ -21,6 +21,8 @@ Depuis Bricks 2.4, il existe une implémentation officielle de l'AI.
 - Suivre les indications données (notamment installation MCP Adapter pour WordPress).
 - Générer un mot de passe d'application. Le copier et conserver, car il ne sera plus affiché par la suite.
 
+![Les réglages](img/Bricks-MCP-connector-settings.jpg)
+
 ### 2) Relier votre IA à Bricks
 
 Bricks va vous donner un message de configuration (sous *Choose how to connect* > *Copy a prompt*), que vous donnez à votre agent IA. Cela commence par: 
@@ -90,13 +92,17 @@ Dernière opération que vous devez faire: installer le fichier `manifest.json` 
 - Dans l'application Figma desktop: en ayant un fichier Figma ouvert aller dans le menu : *Plugins* > *Développement* > *Plugin d'importation à partir d'un manifeste*. 
 - Sélectionner le fichier `manifest.json`.
 
-Cela fait exécuter un plugin nommé "Figma Desktop Bridge". Par la suite, si vous rouvrez le fichier, vous pouvez relancer le plugin sous 
+Cela fait exécuter un plugin nommé "Figma Desktop Bridge". Par la suite, si vous rouvrez le fichier, vous pouvez relancer le plugin sous *Plugins* > *Développement*.
+
+![Relancer le plugin Figma Desktop Bridge](img/plugin-connexion-figma.jpg)
 
 Désormais: 
 
 - L'IA peut détecter les frames que vous sélectionnez dans ce document Figma.
 - L'IA peut construire dans Bricks.
 - On peut lui demander de faire toutes sortes d'opérations (aussi ACF, création de contenus...)
+
+![Fichier Figma avec le plugin Figma Desktop Bridge](img/figma-desktop-bridge.jpg)
 
 ### Bug rencontré
 
