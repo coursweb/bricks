@@ -9,7 +9,7 @@ Cette page montre une méthode pour travailler avec Bricks et des agents AI.
 Les outils utiliés: 
 
 1. Bricks, dans la version 2.4 ou plus récente.
-2. (OpenCode)[https://opencode.ai/], qui comporte des modèles gratuits optimisés pour le code. 
+2. [OpenCode](https://opencode.ai/), qui comporte des modèles gratuits optimisés pour le code. 
 3. [Figma Console MCP](https://github.com/southleft/figma-console-mcp) pour la connexion à Figma. C'est un utiliataire gratuit et open source.
 
 ### 1) Activer les fonctions IA dans Bricks
